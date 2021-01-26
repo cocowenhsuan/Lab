@@ -13,5 +13,10 @@ namespace Lab.Controllers
         {
             return View();
         }
+        public ActionResult Intro()
+        {
+            var i = 0;
+            return View();
+        }
     }
 }
