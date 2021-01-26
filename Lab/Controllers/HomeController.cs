@@ -26,5 +26,15 @@ namespace Lab.Controllers
 
             return View();
         }
+        public ActionResult test()
+        {
+
+            return View();
+        }
+        public ActionResult test2()
+        {
+
+            return View();
+        }
     }
 }
