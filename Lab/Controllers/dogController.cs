@@ -13,5 +13,9 @@ namespace Lab.Controllers
         {
             return View();
         }
+        public ActionResult Dog()
+        {
+            return View();
+        }
     }
 }
